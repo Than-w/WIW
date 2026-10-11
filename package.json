@@ -1,0 +1,7 @@
+{
+  "name": "wiw",
+  "version": "1.0.0",
+  "description": "wiw community platform (single page app)",
+  "scripts": { "start": "node server.js", "dev": "node server.js" },
+  "license": "MIT"
+}
